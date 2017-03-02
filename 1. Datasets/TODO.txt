@@ -1,0 +1,11 @@
+MIRFLICKR1M_EHD
+D:\Dataset\MIRFLICKR1M\Features\Edge Histogram Descriptor\features_edgehistogram\MIRFLICKR1M_EHD.txt
+1.32Go
+
+ImageNet_CLD
+Y:\MPEG7_Features\ImageNet_MPEG-7_CLD_whole.zip
+1Go
+
+ImageNet_EHD
+Y:\MPEG7_Features\ImageNet_MPEG-7_EHD_whole.zip
+2Go

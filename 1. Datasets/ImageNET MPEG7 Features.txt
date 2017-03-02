@@ -1,0 +1,3 @@
+http://rfai.li.univ-tours.fr/PublicData/ImageNetFeatures/ImageNet_MPEG-7_CLD_whole.zip
+
+http://rfai.li.univ-tours.fr/PublicData/ImageNetFeatures/ImageNet_MPEG-7_EHD_whole.zip
