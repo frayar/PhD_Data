@@ -1,0 +1,6 @@
+|E(GT)|	= 190410
+|E(G)|	= 210762
+
+TP 	= 190399	 // Found edges
+FP 	= 20363		 // Added edges
+FN 	= 11		 // Removed edges
