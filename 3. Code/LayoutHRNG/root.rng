@@ -1,0 +1,66 @@
+{
+	"directed": false,
+	"graph": [],
+	"multigraph": false,
+	"nodes": [
+	  {
+		"id": "n0.0",
+		"label": "n0.0",
+		"x": 0,
+		"y": 0,
+		"size": 1,
+		"color": "#3366CC",
+		"nb_images": 676,
+		"representative": "127.jpg",
+		"near_representatives": "127.jpg,173.jpg,496.jpg,260.jpg,503.jpg,800.jpg,127.jpg",
+		"far_representatives": "871.jpg,550.jpg,167.jpg,866.jpg,848.jpg",
+		"first_leaf": "n0.0.0.0.0.0.0",
+		"last_leaf": "n0.0.2.1.2.2.0",
+		"children": "n0.0.rng"
+	  },
+	  {
+		"id": "n0.1",
+		"label": "n0.1",
+		"x": 1,
+		"y": 0,
+		"size": 1,
+		"color": "#3366CC",
+		"nb_images": 294,
+		"representative": "618.jpg",
+		"near_representatives": "618.jpg,663.jpg,637.jpg,964.jpg,327.jpg,346.jpg,619.jpg",
+		"far_representatives": "35.jpg,670.jpg,329.jpg",
+		"first_leaf": "n0.1.0.0.0.0.0",
+		"last_leaf": "n0.1.2.0.0.0.0",
+		"children": "n0.1.rng"
+	  },
+	  {
+		"id": "n0.2",
+		"label": "n0.2",
+		"x": 0,
+		"y": 1,
+		"size": 1,
+		"color": "#3366CC",
+		"nb_images": 271,
+		"representative": "773.jpg",
+		"near_representatives": "773.jpg,767.jpg,751.jpg,728.jpg,180.jpg,901.jpg,926.jpg",
+		"far_representatives": "926.jpg,901.jpg,111.jpg,513.jpg",
+		"first_leaf": "n0.2.0.0.0.0.0",
+		"last_leaf": "n0.2.3.1.2.3.0",
+		"children": "n0.2.rng"
+	  }
+	],
+	"edges": [
+	  {
+		"id": "e0.0",
+		"source": "n0.0",
+		"target": "n0.2",
+		"weight": "20.5599"
+	  },
+	  {
+		"id": "e0.1",
+		"source": "n0.1",
+		"target": "n0.2",
+		"weight": "13.3449"
+	  }
+	]
+}
